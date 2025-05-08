@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <a href="https://github.com/AayushBadola">
     <img src="https://img.shields.io/badge/Author-Aayush%20Badola-blueviolet?style=for-the-badge&logo=github" alt="Author: Aayush Badola">
@@ -411,4 +411,4 @@ Aayush Badola
   <img src="https://media.giphy.com/media/hqgD6bocVd1f4lHk3K/giphy.gif" alt="Coding GIF" width="120"/>
   <img src="https://media.giphy.com/media/XAxqکامJcK262H1v9g/giphy.gif" alt="Coffee Cup GIF" width="100"/>
 </p>
-```
+
