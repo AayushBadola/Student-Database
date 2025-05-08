@@ -2,9 +2,10 @@
 
 <p align="center">
   
- img src = "https://img.shields.io/badge/Author%20%3A%20Aayush">
+ <img src="https://img.shields.io/badge/Author-Aayush%20Badola-blue?style=flat-square&logo=github" alt="Author: Aayush Badola" />
+
  
-  </a>
+  
 </p>
 
 <h1 align="center">
