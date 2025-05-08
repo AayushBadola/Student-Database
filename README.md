@@ -2,8 +2,7 @@
 
 <p align="center">
   
- <img src="https://img.shields.io/badge/Author-Aayush%20Badola-blue?style=flat-square&logo=github" alt="Author: Aayush Badola" />
-
+  <img src="https://img.shields.io/badge/Author-Aayush%20Badola-blue?style=flat-square&logo=github" alt="Author: Aayush Badola" height="30"/>
  
   
 </p>
