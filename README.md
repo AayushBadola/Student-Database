@@ -1,7 +1,9 @@
 
 
 <p align="center">
-  ![Static Badge](https://img.shields.io/badge/Author%20%3A%20Aayush)
+  
+ img src = "https://img.shields.io/badge/Author%20%3A%20Aayush">
+ 
   </a>
 </p>
 
