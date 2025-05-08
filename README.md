@@ -117,12 +117,12 @@ After cloning, your project directory will look something like this:
 
 ```
 Student-Database/
-├── studentdb.c         # Main application logic
-├── aquant.c            # Implementation of the aquant library
-├── aquant.h            # Header file for the aquant library
-├── students.csv        # Data file (will be created on first run/save)
-├── LICENSE             # Project license
-└── README.md           # This file
+├── License        
+├── Readme.md           
+├── aquant.c              # My person C library Check it out - https://github.com/AayushBadola/Aquant
+├── aquant.h        
+├── studentdb.c             
+└── students.csv          # Data file (will be created on first run/save)
 ```
 
 ### Compilation
