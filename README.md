@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-A8B9CC.svg?style=for-the-badge&logo=c" alt="Language: C"/>
-  <img src="https://img.shields.io/badge/C%20Standard-C11%2B%20Recommended-orange?style=for-the-badge" alt="C Standard: C11+ Recommended"/>
+  <img src="https://img.shields.io/badge/C%20Standard-C12+%2B%20Recommended-orange?style=for-the-badge" alt="C Standard: C11+ Recommended"/>
   <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey?style=for-the-badge&logo=linux&logoColor=white" alt="Platform: Cross-Platform"/>
   <a href="https://github.com/AayushBadola/Student-Database/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/AayushBadola/Student-Database?style=for-the-badge&color=blue" alt="License"/>
