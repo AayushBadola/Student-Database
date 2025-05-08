@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
- 
+  <img src="https://raw.githubusercontent.com/AayushBadola/Student-Database/main/.github/assets/database_icon.png" alt="Database Icon" width="60" style="vertical-align: middle;"/>
   Advanced Student Database Management System in C
 </h1>
 
@@ -79,7 +79,7 @@
 *   **Language**: C (C11 standard or newer recommended for `snprintf` and other features. Tested with GCC).
 *   **Compiler**: GCC (GNU Compiler Collection) is recommended. Clang should also work.
 *   **Core Libraries**: Standard C Library (`stdio.h`, `stdlib.h`, `string.h`, `ctype.h`).
-*   **Custom Library**: `aquant.h` (provided within the repository) for helper functions.
+*   **Custom Library**: `aquant.h` – A custom C utility library. The `aquant.h` header and `aquant.c` implementation files are included in this repository for convenience. The original library can be found at its own repository: <a href="https://github.com/AayushBadola/Aquant" target="_blank">AayushBadola/Aquant</a>.
 
 ---
 
@@ -111,7 +111,7 @@ git clone https://github.com/AayushBadola/Student-Database.git
 cd Student-Database
 ```
 
-This will download the project files into a directory named `Student-Database` and navigate you into it.
+This will download the project files into a directory named `Student-Database` and navigate you into it. The necessary `aquant.h` and `aquant.c` files are included directly in this repository.
 
 ### Directory Structure
 
@@ -299,7 +299,8 @@ The project is primarily structured around two C files:
 
 ### `aquant.h` & `aquant.c`
 
-*   This is a custom utility library designed to provide more convenient and often safer alternatives to standard C functions.
+*   This is a custom utility library designed to provide more convenient and often safer alternatives to standard C functions. The `aquant.h` and `aquant.c` files for this library are included in this repository for ease of use.
+*   The standalone Aquant library project can be found at: <a href="https://github.com/AayushBadola/Aquant" target="_blank">**AayushBadola/Aquant**</a>.
 *   **`aquant.h`**: The header file, containing function declarations and type definitions (like `string` as `char*`).
 *   **`aquant.c`**: The implementation file for the functions declared in `aquant.h`.
 *   **Key functionalities provided by `aquant.h` used in this project**:
@@ -405,10 +406,6 @@ Aayush Badola
 
 <br/>
 <p align="center">
-  Made with ❤️ and lots of ☕
+  <img src="https://img.shields.io/badge/Made%20with-Love%20%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-lightgrey?style=for-the-badge&logo=buy-me-a-coffee&logoColor=brown" alt="Powered by Coffee"/>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/hqgD6bocVd1f4lHk3K/giphy.gif" alt="Coding GIF" width="120"/>
-  <img src="https://media.giphy.com/media/XAxqکامJcK262H1v9g/giphy.gif" alt="Coffee Cup GIF" width="100"/>
-</p>
-
