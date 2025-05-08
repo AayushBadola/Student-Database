@@ -5,7 +5,6 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AayushBadola/Student-Database/main/.github/assets/database_icon.png" alt="Database Icon" width="60" style="vertical-align: middle;"/>
   Advanced Student Database Management System in C
 </h1>
 
