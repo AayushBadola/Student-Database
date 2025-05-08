@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <a href="https://github.com/AayushBadola">
+  ![Static Badge](https://img.shields.io/badge/Author%20%3A%20Aayush)
   </a>
 </p>
 
