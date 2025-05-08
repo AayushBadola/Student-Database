@@ -1,4 +1,4 @@
-
+```markdown
 <p align="center">
   <a href="https://github.com/AayushBadola">
     <img src="https://img.shields.io/badge/Author-Aayush%20Badola-blueviolet?style=for-the-badge&logo=github" alt="Author: Aayush Badola">
@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
- 
+  <img src="https://raw.githubusercontent.com/AayushBadola/Student-Database/main/.github/assets/database_icon.png" alt="Database Icon" width="60" style="vertical-align: middle;"/>
   Advanced Student Database Management System in C
 </h1>
 
@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-A8B9CC.svg?style=for-the-badge&logo=c" alt="Language: C"/>
-  <img src="https://img.shields.io/badge/C%20Standard-C12+%2B%20Recommended-orange?style=for-the-badge" alt="C Standard: C11+ Recommended"/>
+  <img src="https://img.shields.io/badge/C%20Standard-C11%2B%20Recommended-orange?style=for-the-badge" alt="C Standard: C11+ Recommended"/>
   <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey?style=for-the-badge&logo=linux&logoColor=white" alt="Platform: Cross-Platform"/>
   <a href="https://github.com/AayushBadola/Student-Database/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/AayushBadola/Student-Database?style=for-the-badge&color=blue" alt="License"/>
@@ -66,7 +66,6 @@
     *   Search by exact Student ID.
     *   Search by Student ID prefix (results sorted in descending order).
     *   Search by mark in a specific subject for a given semester.
-    *   (Previous versions included name, major, age, GPA searches - these can be re-integrated or expanded).
 *   **Persistent Storage**: Student data, including marks, is saved to and loaded from a CSV file (`students.csv`).
 *   **Automatic Save**: Data is auto-saved after most operations to prevent data loss.
 *   **Dynamic Memory Management**: Utilizes `malloc`, `realloc`, and `free` (via `aquant.h` wrappers) for string data.
@@ -144,7 +143,7 @@ Let's break down this command:
 *   `gcc`: The GNU C Compiler.
 *   `studentdb.c aquant.c`: The source files to compile.
 *   `-o studentdb`: Specifies the output executable file name as `studentdb` (or `studentdb.exe` on Windows).
-*   `-lm`: Links the math library. While not heavily used in the current version after GPA removal, it's good practice if any math functions are reintroduced or used by `aquant.h` indirectly.
+*   `-lm`: Links the math library.
 
 **If you encounter errors related to `snprintf` or other C99/C11 features, ensure your compiler supports these standards. You might explicitly specify the standard:**
 
@@ -164,7 +163,7 @@ To run the application, execute the following command in your terminal:
     ```
 *   **Windows (Command Prompt/PowerShell)**:
     ```bash
-    .\studentdb.exe 
+    .\studentdb.exe
     ```
     or
     ```bash
@@ -409,6 +408,7 @@ Aayush Badola
   Made with ❤️ and lots of ☕
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9Evyhfg/giphy.gif" width="50"/>
-  <img src="https://media.giphy.com/media/ jPanelg3yX0S2LzQY1z/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/hqgD6bocVd1f4lHk3K/giphy.gif" alt="Coding GIF" width="120"/>
+  <img src="https://media.giphy.com/media/XAxqکامJcK262H1v9g/giphy.gif" alt="Coffee Cup GIF" width="100"/>
 </p>
+```
