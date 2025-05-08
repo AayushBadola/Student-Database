@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="https://github.com/AayushBadola">
-    <img src="https://img.shields.io/badge/Author-Aayush%20Badola-blueviolet?style=for-the-badge&logo=github" alt="Author: Aayush Badola">
   </a>
 </p>
 
